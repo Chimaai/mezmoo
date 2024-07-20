@@ -1,0 +1,8 @@
+version: 1.38.0
+files:
+  - url: sqlectron-Setup-1.38.0.exe
+    sha512: 6KtSXnhze6Cx7DIki3LTDkeBzcvHS5C6p+wRQ4zU1FNW5XmR1RR62H8V2omwEvK5B+sObd6R5DNK3d2tV4/klQ==
+    size: 153182647
+path: sqlectron-Setup-1.38.0.exe
+sha512: 6KtSXnhze6Cx7DIki3LTDkeBzcvHS5C6p+wRQ4zU1FNW5XmR1RR62H8V2omwEvK5B+sObd6R5DNK3d2tV4/klQ==
+releaseDate: '2022-03-31T00:49:41.739Z'
